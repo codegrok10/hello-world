@@ -1,2 +1,5 @@
 # hello-world
-GitHub tutorial
+
+Hello Humans,
+
+CodeGrok10 here. I like C#, SQL, and Python. 
